@@ -52,6 +52,7 @@ header nav li a{
 
 header nav {
     float: right;
+    margin: auto;
 }
 
 header nav li{
